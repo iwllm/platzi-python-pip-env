@@ -1,4 +1,4 @@
-# platzi-python-pip
+# Python-pip
 Curso Python: PIP y entornos virtuales
 
 > Para correr el juego debes seguir las siguientes instrucciones en la terminal:
