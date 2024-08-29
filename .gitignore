@@ -34,7 +34,16 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
-# Others
-*.pyc 
+# Ignore all .pyc files
+*.pyc
+
+# Also ignore __pycache__ directories
+__pycache__/
+
+# Ignore the imgs folder
+app/imgs/
+
+# Ignore all .png files
+*.png
 
 # End of https://www.toptal.com/developers/gitignore/api/macos
