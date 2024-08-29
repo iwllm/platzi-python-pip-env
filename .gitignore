@@ -46,4 +46,10 @@ app/imgs/
 # Ignore all .png files
 *.png
 
+# Ignore all venvs
+webserver/vwebserver/
+app/vapp/
+game/vgame/
+
+
 # End of https://www.toptal.com/developers/gitignore/api/macos
